@@ -1,2 +1,2 @@
-# 2022
-Materials for Applied Data Analysis CS-401, Fall 2022
+# Applied data analysis course @ EPFL
+Homeworks for Applied Data Analysis CS-401, Fall 2022
